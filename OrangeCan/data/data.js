@@ -1,20 +1,20 @@
 var postList = [{
-    date: "Jan 28 2017",
-    title: "小时候的冰棍儿与雪糕",
+    date: "Jan 28 2019",
+    title: "最爱的蛋糕",
     postImg: "/images/post/post-4.jpg",
     avatar: "/images/avatar/avatar-5.png",
-    content: "冰棍与雪糕绝对不是同一个东西。3到5毛钱的雪糕犹如现在的哈根达斯，而5分1毛的 冰棍儿就像现在的老冰棒。时过境迁，...",
+  content: "蛋糕是一种古老的西点，一般是由烤箱制作的，蛋糕是用鸡蛋、白糖、小麦粉为主要原料。以牛奶、果汁、奶粉、香粉、色拉油、水，起酥油、泡打粉为辅料。经过搅拌、调制、烘烤后制成一种像海绵的点心。，...",
     readingNum: 23,
     collectionNum: 3,
     commentNum: 0,
-    author: "林白衣",
+    author: "熊大",
     dateTime: "24小时前",
-    detail: "冰棍与雪糕绝对不是同一个东西。3到5毛钱的雪糕犹如现在的哈根达斯，而5分1毛的 冰棍儿就像现在的老冰棒。时过境迁，当年的老冰棍也随着童年的记忆消失不见踪影。记得小时候，每当傍晚时分，总有一个老人推着一辆小车，小车的后架上放着一个大大的白色泡沫盒子。老人一边推着车，一边叫喊着：雪糕、冰棍...",
+  detail: "关于提拉米苏的由来，有一个温馨的故事：二战时期，一个意大利士兵要出征了，可是家里已经几乎什么都没有了，爱他的妻子为了给他准备干粮，把家里所有能吃的饼干、面包做进了一个糕点里，那个糕点就叫提拉米苏。每当这个士兵在战场上吃到提拉米苏就会想起他的家，想起家中心爱的人...",
     postId: 1,
     music: {
-        url: "http://ws.stream.qqmusic.qq.com/C100001Dc80Z3qPj2Z.m4a?fromtag=38",
-        title: "罗大佑 恋曲1980",
-        coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003cWU1M2qNwxZ.jpg?max_age=2592000",
+      url: "https://music.163.com/#/song?id=26494680",
+        title: "天空之城",
+      coverImg: "/images/post/a-1.jpg",
     },
     collectionStatus: true,
     upStatus: false,
@@ -22,22 +22,22 @@ var postList = [{
     comments: []
 },
 {
-    date: "Jan 9 2017",
-    title: "从童年呼啸而过的火车",
+    date: "Jan 9 2019",
+    title: "欲罢不能的坚果",
     postImg: "/images/post/post-5.jpg",
     avatar: "/images/avatar/avatar-1.png",
-    content: "小时候，家的后面有一条铁路。听说从南方北上的火车都必须经过这条铁路。火车大多在晚上经过，但也不定是只有在夜深人静的时候，火车的声音才能从远方传来...",
+  content: "坚果，是闭果的一个分类，果皮坚硬，内含1粒或者多粒种子。如板栗，杏仁等的果实。坚果是植物的精华部分，一般都营养丰富，含蛋白质、油脂、矿物质、维生素较高，对人体生长发育、增强体质、预防疾病有极好的功效...",
     readingNum: 96,
     collectionNum: 7,
     commentNum: 4,
-    author: "林白衣",
+    author: "熊二",
     dateTime: "24小时前",
-    detail: "小时候，家的后面有一条铁路。听说从南方北上的火车都必须经过这条铁路。火车大多在晚上经过，可呜呜的汽笛声，往往却被淹没在傍晚小院儿里散步的人群声中。只有在夜深人静的时候，火车的声音才能清晰的从远处飘过来。虽然日日听见火车的汽笛声，可说也奇怪，我竟从来不知道铁路在哪里。在每个夏日午后，我都会有一种去找寻找铁路的冲动，去看看这条铁路究竟是从哪里来，又将通向哪里去",
+  detail: "坚果中分别含有蛋白质36.0%、脂肪58.8%、碳水化合物72.6%，还含有维生素（维生素B、维生素E等）、微量元素（磷、钙、锌、铁）、膳食纤维等，其中还含有单不饱和脂肪酸、多不饱和脂肪酸，包括亚麻酸、亚油酸等人体的必需脂肪酸，坚果对人体健康有许多好处",
     postId: 2,
     music: {
-        url: "http://ws.stream.qqmusic.qq.com/C100004VybKS2SpZVL.m4a?fromtag=38",
-        title: "齐秦 原来的我",
-        coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003ZvAeK2PgA4Y.jpg?max_age=2592000"
+      url: "https://music.163.com/#/song?id=471986831",
+      title: "The World Is Asleep",
+      coverImg: "/images/post/a-2.jpg"
     },
     collectionStatus: true,
     upStatus: true,
@@ -46,9 +46,9 @@ var postList = [{
         {
             username: '青石',
             avatar: '/images/avatar/avatar-3.png',
-            create_time: '1484723344',
+            create_time: '1884723344',
             content: {
-                txt: ' 那一年的毕业季，我们挥挥手，来不及说再见，就踏上了远行的火车。',
+              txt: ' 坚果可以降低妇女发生2型糖尿病的危险',
                 img: ["/images/comment/train-1.jpg","/images/comment/train-2.jpg","/images/comment/train-3.jpg"],
                 audio: null
             }
@@ -57,7 +57,7 @@ var postList = [{
             avatar: '/images/avatar/avatar-2.png',
             create_time: '1481018319',
             content: {
-                txt: '夏日的蝉鸣与夜晚的火车，时长会在未来无数的日子里不断的在我耳边响起，难以忘怀',
+              txt: '我知道坚果可以降低心脏性猝死率，而且，我也喜欢吃',
                 img: [],
                 audio: null,
             }
@@ -67,7 +67,7 @@ var postList = [{
             avatar: '/images/avatar/avatar-1.png',
             create_time: '1484496000',
             content: {
-                txt: '时光的湮染，自然的吞噬，让太多的老火车站也消失得无影无踪',
+                txt: '感觉坚果咬起来很舒服，对牙齿号',
                 img: ["/images/comment/train-4.jpg",],
                 audio: null,
             }
@@ -85,22 +85,22 @@ var postList = [{
     ]
 },
 {
-    date: "Jan 29 2017",
-    title: "记忆里的春节",
+    date: "Jan 29 2019",
+    title: "美味的饼干",
     postImg: "/images/post/post-1.jpg",
     avatar: "/images/avatar/avatar-3.png",
-    content: "年少时，有几样东西，是春节里必不可少的：烟花、新衣、凉菜、压岁钱、饺子。年分大小年，有的地方是腊月二十三过小年，而有的地方是腊月二十四...",
+  content: "饼干的词源是“烤过两次的面包”，是从法语的bis（再来一次）和cuit（烤）中由来的。它是用面粉和水或牛奶不放酵母而烤出来的，可作为旅行、航海、登山时的储存食品，在战争时期用于军人们的备用食品也是非常方便适用的...",
     readingNum: 56,
     collectionNum: 6,
     commentNum: 0,
     author: "林白衣",
     dateTime: "24小时前",
-    detail: "年少时，有几样东西，是春节里必不可少的：烟花、新衣、凉菜、压岁钱、饺子。年分大小年，有的地方是腊月二十三过小年，而有的地方是腊月二十四。童年的春节都是在小县城里度过，那时候的冬天还很冷，池塘的水会结冰，房屋上总是倒挂着一条条的冰棱，菜地里的白菜被厚厚的积雪覆盖着，只露出一小撮白绿相间的菜头，而茎部，竟然像是没有了一般...",
+  detail: "饼干的主要原料是小麦面粉，再添加糖类，油脂，蛋品，乳品等辅料。根据配方和生产工艺的不同，甜饼干可分为韧性饼干和酥性饼干两大类。韧性饼干的特点是印模造型多为凹花，表面有针眼。制品表面平整光滑，断面结构有层次，口嚼时有松脆感，耐嚼，松脆为其特有的特色。韧性饼干的糖和油脂的配比较酥性饼低。一般用糖量的30% 以下，用油量为20% 以下。酥性饼干的特点是印模造型多为凸花，花纹明显，结构细密，为面粉量的14% ~30 %。有些甜味疏松的特殊制品，油脂用量可高达50% 左右。...",
     postId: 3,
     music: {
-        url: "http://ws.stream.qqmusic.qq.com/C100003XYcCu3IZKLc.m4a?fromtag=38",
-        title: "老狼 虎口脱险",
-        coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000002sNbWp3royJG.jpg?max_age=2592000"
+      url: "https://music.163.com/#/song?id=496774187",
+      title: "Feeling The Rain",
+      coverImg: "/images/post/a-3.jpg"
     },
     collectionStatus: false,
     upStatus: false,
@@ -108,22 +108,22 @@ var postList = [{
     comments: []
 },
 {
-    date: "Sep 22 2016",
-    title: "换个角度，再来看看微信小程序的开发与发展",
+    date: "Sep 22 2019",
+    title: "美味的豆制品",
     postImg: "/images/post/post-2.jpg",
     avatar: "/images/avatar/avatar-2.png",
-    content: "前段时间看完了雨果奖中短篇获奖小说《北京折叠》。很有意思的是，张小龙最近也要把应用折叠到微信里，这些应用被他称为：小程序...",
-    readingNum: 0,
-    collectionNum: 0,
+  content: "豆制品是以大豆、小豆、青豆、豌豆、蚕豆等豆类为主要原料，经加工而成的食品。大多数豆制品是大豆的豆浆凝固而成的豆腐及其再制品，中国是大豆的故乡，中国栽培大豆己有五千年的历史。同时也是最早研发生产豆制品的国家...",
+    readingNum: 3,
+    collectionNum: 15,
     commentNum: 0,
     author: "林白衣",
     dateTime: "24小时前",
-    detail: "我们先举个例子来直观感受下小程序和APP有什么不同。大家都用过支付宝，在其内部包含着很多小的服务：手机充值、城市服务、生活缴费、信用卡还款、加油服务，吧啦吧啦一大堆服务。这些细小的、功能单一的服务放在支付宝这个超级App里，你并不觉得有什么问题，而且用起来也很方便。那如果这些小的应用都单独拿出来，成为一个独立的App",
+  detail: "中国是大豆的故乡，中国栽培大豆己有五千年的历史。同时也是最早研发生产豆制品的国家.西周至春秋时期，人们把大豆（即菽）当作主要食粮。农民们不止一次唱到它:中原有菽, 庶民采之。采菽采菽, 筐之谷之。七月烹葵及寂。古人不但将大豆当作主食,而且逐渐地研制了豆腐、做豉、制酱、生豆芽、榨油……,以及制作其他豆制品，这是对人类一大贡献。仅平常的豆腐一品,至今己风靡世界矣!《辞源》记载：“以豆为之。造法，水浸磨浆，去渣滓，煎成淀以盐卤汁，就釜收之，又有入缸内以石膏收者。相传为汉淮南王刘安所造。”",
     postId: 4,
     music: {
-        url: "http://ws.stream.qqmusic.qq.com/C100003z8cOo0Bs7zP.m4a?fromtag=38",
-        title: "吴奇隆 祝你一路顺风",
-        coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000000n6a7p2HIPqU.jpg?max_age=2592000"
+      url: "https://music.163.com/#/song?id=559227860",
+      title: "Old Memory",
+      coverImg: "/images/post/a-4.jpg"
     },
     collectionStatus: false,
     upStatus: true,
@@ -131,22 +131,22 @@ var postList = [{
     comments: []
 },
 {
-    date: "Jan 29 2017",
-    title: "2017 微信公开课Pro",
+    date: "Jan 29 2019",
+    title: "无法抵抗的小鱼仔",
     postImg: "/images/post/post-3.jpg",
     avatar: "/images/avatar/avatar-4.png",
-    content: "在今天举行的2017微信公开课PRO版上，微信事业群总裁张小龙宣布，微信“小程序”将于1月9日正式上线。",
+  content: "香辣鱼仔，精选特色上等小鱼仔，依据传统工艺，结合现代化生产加工技术，辅以我公司潜心研发的天博香精香料，经漂洗、油炸、卤煮、晾干、调味等工艺精心制作而成。该产品肉质细腻而紧实，富有嚼劲，香味醇厚，香辣爽口，回味悠长，是一款健康地道的“湘辣”风味美食，是居家、旅游、休闲、馈赠亲友之佳品……",
     readingNum: 32,
     collectionNum: 2,
     commentNum: 0,
     author: "林白衣",
     dateTime: "24小时前",
-    detail: "在今天举行的2017微信公开课PRO版上，微信宣布，微信“小程序”将于1月9日正式上线，公布了几乎完整的小程序生态模式：微信里没有小程序入口、没有应用市场，分发模式几乎沿用公众号的模式，去中心化，限制搜索的能力，大多数小程序不能支持模糊搜索，必须输入完整的小程序名称...",
+  detail: "香辣鱼仔外观油润，色泽红亮，口感劲道，香辣味浓郁，回味醇厚，具有纯正的湘香特色风味。挑选上等干爽小鱼仔，规格均一，去头和杂质，入清水浸泡约1h，至鱼体发软，淘洗2遍，鱼仔淘洗后入烘烤箱以50℃烘烤3-5min，180℃炸2-3min，炸至鱼体硬挺，按卤煮配方配料，香辛料包煮出香味后捞出，放入鱼仔焯水4-5min，撇除浮沫，先将油状香精、辣椒红色素和水溶香辣椒精加入油炸香辛料中混匀，再拌入鱼仔中混匀，然后加入食盐、白砂糖、味精、I+G、乙基麦芽酚、肉味香精E50018等拌匀。真空包装后入杀菌锅，100℃保持10min，将杀菌的鱼仔在流水中冷至常温，美味就好了...",
     postId: 5,
     music: {
-        url: "http://ws.stream.qqmusic.qq.com/C100004K7D5E2xhv9v.m4a?fromtag=38",
-        title: "杨千嬅 再见二丁目(live)",
-        coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000000ptb8p0ZIxDP.jpg?max_age=2592000",
+      url: "https://music.163.com/#/song?id=485856132",
+      title: "Good Night",
+      coverImg: "/images/post/a-5.jpg",
     },
     collectionStatus: false,
     upStatus: false,

@@ -1,6 +1,5 @@
 {
   "pages": [
-  
     "pages/welcome/welcome",
     "pages/setting/setting",
     "pages/setting/device/device",
